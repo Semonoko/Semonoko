@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Semonoko
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any expert person
 - 📫 How to reach me semiakiner5639@gmail.com
 
 <!---
